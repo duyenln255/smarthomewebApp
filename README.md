@@ -1,5 +1,6 @@
 # SmartHome Dashboard
-# cài đặt Node.js và npm trên máy tính của bạn. 
+
+cài đặt Node.js và npm trên máy tính của bạn. 
 tải về và cài đặt từ [Node.js official website.]([url](https://nodejs.org/en))
 
 #Trước tiên, clone dự án từ GitHub hoặc tải xuống source code. 
