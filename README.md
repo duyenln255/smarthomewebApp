@@ -1,7 +1,8 @@
-# React Admin Dashboard
+# SmartHome Dashboard
+# Đảm bảo rằng bạn đã cài đặt Node.js và npm trên máy tính của bạn. Bạn có thể tải về và cài đặt từ [Node.js official website.]([url](https://nodejs.org/en))
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+#Trước tiên, clone dự án từ GitHub hoặc tải xuống source code. Sau đó mở terminal trong Visual Studio Code và chạy các lệnh sau trong thư mục dự án:
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+1. npm install  # Cài đặt các gói npm cần thiết
+2. npm run build
+3. npm run start 
