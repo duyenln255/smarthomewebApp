@@ -1,4 +1,5 @@
-# SmartHome Dashboard
+#Smart Home Website Project
+
 
 cài đặt Node.js và npm trên máy tính của bạn. 
 tải về và cài đặt từ [Node.js official website.]([url](https://nodejs.org/en))
