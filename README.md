@@ -4,7 +4,9 @@ In progress
 
 # Technologies used to build this website
 1. Front-end: <b>React</b>
-
+2. Back-end: <b>Node.js</b>
+3. Database: <b>MongoDB</b>
+4. Hosting: 
 # How to run FE code
 
 cài đặt Node.js và npm trên máy tính của bạn. 
