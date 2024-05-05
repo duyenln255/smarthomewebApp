@@ -1,6 +1,11 @@
-#Smart Home Website Project
+# Smart Home Website Project
+# Website address
+In progress
 
+# Technologies used to build this website
+1. Front-end: <b>React</b>
 
+How to run FE code
 cài đặt Node.js và npm trên máy tính của bạn. 
 tải về và cài đặt từ [Node.js official website.]([url](https://nodejs.org/en))
 
