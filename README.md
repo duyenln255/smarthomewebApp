@@ -6,7 +6,10 @@ In progress
 1. Front-end: <b>React</b>
 2. Back-end: <b>Node.js</b>
 3. Database: <b>MongoDB</b>
-4. Hosting: 
+4. Hosting:
+
+# Development Status:
+Under development.
 # How to run FE code
 
 cài đặt Node.js và npm trên máy tính của bạn. 
