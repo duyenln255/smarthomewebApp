@@ -4,7 +4,7 @@ This project is a smart home management system designed to allow users to contro
 In progress
 
 # Technologies used to build this website
-1. Front-end: <b>React</b>
+1. Front-end: <b>ReactJS</b>
 2. Back-end: <b>Node.js</b>
 3. Database: <b>MongoDB</b>
 4. Hosting:
