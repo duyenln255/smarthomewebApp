@@ -26,5 +26,6 @@ Run the following commands:
 1. npm install         # Install necessary npm packages
 2. npm run build       # Build the application
 3. npm run start       # Start the application
+#Dashboard
 
 ![Dashboard](fe/public/assets/dashboard.png)
