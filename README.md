@@ -27,4 +27,4 @@ Run the following commands:
 2. npm run build       # Build the application
 3. npm run start       # Start the application
 
-![Dashboard](fe/public/asset/dashboard.png)
+![Dashboard](fe/public/assets/dashboard.png)
